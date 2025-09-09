@@ -1,2 +1,2 @@
-# Sorting-algorithms-
-This repository is about various sorting algorithms that i have studied over the course of my degree. 
+# Sorting-algorithms
+This repository contains various sorting algorithms that I have studied throughout my degree. 
